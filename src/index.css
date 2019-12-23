@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.lateral-bar {
+  display: flex;
+}
+
+.cursor {
+  cursor: url("https://i.stack.imgur.com/bUGV0.png"), auto;
+}
+.image:hover {
+  filter: opacity(25%);
+}
+
